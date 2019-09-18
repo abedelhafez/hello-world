@@ -1,2 +1,2 @@
 # hello-world
-edited from the public
+edited from the central repository
